@@ -6,8 +6,8 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=556
 - insert the names of file tests, character classes, special Perl-variables and POSIX-signals
 - read, write, maintain your own code snippets in a separate   directory
 - run scripts or run syntax check from within the editor
-- show compilation erros in a quickfix window; navigate with hotkeys 
-- read perldoc for functions and modules 
+- show compilation erros in a quickfix window; navigate with hotkeys
+- read perldoc for functions and modules
 - run perltidy / run the profiler SmallProf
 - test / explain regular expressions (needs Vim with Perl interface)
 
@@ -21,15 +21,15 @@ The installation explained: http://www.thegeekstuff.com article
 "Make Vim as Your Perl-IDE Using perl-support Plugin"
 (http://www.thegeekstuff.com/2009/01/make-vim-as-your-perl-ide-using-perl-supportvim-plugin)
 
-Documentation 
+Documentation
 --------------------------------------------------------
-This plugin comes with a help file (perlsupport.txt). Read it with   
- 
-  :h perlsupport 
+This plugin comes with a help file (perlsupport.txt). Read it with
+
+  :h perlsupport
 
 ** PLEASE READ THE DOCUMENTATION **
 
-Editing actions differ for different modes!  
+Editing actions differ for different modes!
 There are  a lot of  features which can be configured or customized to match your needs.
 
 
@@ -39,10 +39,10 @@ You can subscribe to the vim-plugins-list mailing list to post your questions or
 suggestions for improvement or to report bugs.  The list will also be used to
 announce new releases ( c.vim / bash-support / perl-support / doxygen-support ).
 Visit the following page for subscribing to the mailing list:
-     
+
   http://lug.fh-swf.de/cgi-bin/mailman/listinfo/vim-plugins-list
 
 The vim-plugins-list list is very low on traffic.
 
 ___________________
-Thank you for rating perl-support ! 
+Thank you for rating perl-support !
