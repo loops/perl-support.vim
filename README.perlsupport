@@ -24,6 +24,9 @@ Vim version 6.x.
 (1)  LINUX
 ----------------------------------------------------------------------
 
+(if you use pathogen, most of the below is unnecessary, simply clone
+ this repo into your ~/.vim/bundle directory)
+
 The subdirectories in the zip archive  perl-support.zip  mirror the directory
 structure which is needed below the local installation directory $HOME/.vim/
 (find the value of $HOME with ":echo $HOME" from inside Vim).

@@ -17,7 +17,12 @@ The help file online :   http://lug.fh-swf.de/vim/vim-perl/perlsupport.html
 
 The key mappings of this plugin (PDF) :  http://lug.fh-swf.de/vim/vim-perl/perl-hot-keys.pdf
 
-The installation explained: http://www.thegeekstuff.com article
+Installation
+--------------------------------------------------------
+You should probably just use Pathogen, and then clone this repo into
+your ~/.vim/bundle directory.
+
+Older installation explained: http://www.thegeekstuff.com article
 "Make Vim as Your Perl-IDE Using perl-support Plugin"
 (http://www.thegeekstuff.com/2009/01/make-vim-as-your-perl-ide-using-perl-supportvim-plugin)
 
